@@ -1,0 +1,37 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+  padding: 20px;
+}
+.grid-item {
+  text-align: center;
+}
+.grid-item img {
+  border-radius: 50%; 
+  width: 150px;
+  height: 150px;
+}
+
+
+
+#header{
+  padding-bottom: 1rem ;
+}
+
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color:#0d6efd;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
